@@ -38,7 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Laravel 5 Shawn</div>
+				<h1>Welcome to the Thunderdome Bitch!</h1>
             </div>
         </div>
     </body>
